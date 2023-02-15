@@ -1,0 +1,11 @@
+*.h5
+*.npy
+*.cfg
+*.weights
+*.png
+note
+/__pycache__
+/datas
+/log
+/models
+/tools
